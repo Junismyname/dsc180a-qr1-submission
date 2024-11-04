@@ -1,4 +1,4 @@
-# Project Title
+# DSC180A Intermediate Submission
 
 ## Description
 
