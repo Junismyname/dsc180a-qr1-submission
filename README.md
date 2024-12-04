@@ -99,7 +99,7 @@ dsc180a-qr1-submission/
 │   └── master.py                     # Main script to execute feature extraction  
 │  
 └── .ipynb_checkpoints/               # Jupyter checkpoint files
-
+```
 ## Running the Code  
 
 ### Running Feature Extraction with `master.py`
